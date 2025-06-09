@@ -1,6 +1,6 @@
 ## Hi 👋 Mustapha Obabiyi
 
-[Linkedin]https://www.linkedin.com/in/mustapha-obabiyi-799293b9/
+[Linkedin]"https://www.linkedin.com/in/mustapha-obabiyi-799293b9/"
 
 <!--
 **Obabiyi/Obabiyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
