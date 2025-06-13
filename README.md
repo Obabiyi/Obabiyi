@@ -3,6 +3,9 @@
 # ABOUT
 I’m a data analyst with a strong focus on using data to drive informed decisions and solve real-world business problems. My core strength lies in critical thinking—breaking down complex challenges, analyzing data patterns, and extracting meaningful insights that lead to strategic solutions. I thrive on transforming raw data into clear, actionable information that supports growth, improves efficiency, and guides better decision-making. From data cleaning and visualization to reporting and stakeholder communication, I approach every task with curiosity, precision, and a solution-oriented mindset. I’m passionate about helping organizations make sense of their data and uncover opportunities they might otherwise overlook. Whether working independently or within a team, I bring a thoughtful, analytical perspective to every project.
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+# PROJECTS
+[Sales analysis using microsoft excel](https://github.com/Obabiyi/Project/blob/main/README.md)
 [Linkedin](https://www.linkedin.com/in/mustapha-obabiyi-799293b9/)
 
 <!--
