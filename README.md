@@ -6,6 +6,8 @@ ________________________________________________________________________________
 
 # PROJECTS
 [Sales analysis using microsoft excel](https://github.com/Obabiyi/Project/blob/main/README.md)
+
+# CONTACT
 [Linkedin](https://www.linkedin.com/in/mustapha-obabiyi-799293b9/)
 
 <!--
